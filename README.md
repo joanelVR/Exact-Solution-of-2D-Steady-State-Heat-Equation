@@ -1,5 +1,5 @@
 # Exact-Solution-of-2D-Steady-State-Heat-Equation
-##### This program evaluates and plots the 2D temperature field T(x,y) given by heat equation for a plate, where:
+##### This program evaluates and plots the 2D temperature field T(x,y) for a plate using the Finite Difference Solution Method and the heat equation for different boundary conditions, where:
   * L = 1m
   * W = 1m,
   * T1 = 100 °C
@@ -7,6 +7,7 @@
   * dx = dy
   
 <a href="http://imgbox.com/N08oWIwg" target="_blank"><img src="https://thumbs.imgbox.com/06/e4/N08oWIwg_t.jpg" alt="image host"/></a>
+<a href="http://imgbox.com/omHD8dUt" target="_blank"><img src="https://thumbs.imgbox.com/ad/70/omHD8dUt_t.jpg" alt="image host"/></a>
 # __Getting Started__
 ##### For the other files of this program, please email me at joanel.vasquez1520@gmail.com explaning why you need the program. Put the name of the program in the subject and GITHUB. 
 # __Prerequesites__
